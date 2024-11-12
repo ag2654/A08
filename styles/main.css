@@ -50,27 +50,24 @@ header img {
 section {
 	width: 525px;
 	float: right;
-	padding: 0 20px;
+	padding: 0 20px 20px 20px;
 }
 
 section h1 {
 	font-size: 150%;
-	padding: .5em 0 .25em 0;
+	padding: .5em 0 .25em;
 	margin: 0;
 }
 
 section h2 {
 	color: #800000;
 	font-size: 130%;
-	padding: .5em 0 .25em 0;
+	padding: .5em 0 .25em;
 }
 
 section h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
-}
-section img {
-	padding-bottom: 1em;
 }
 section p {
 	padding-bottom: .5em;
